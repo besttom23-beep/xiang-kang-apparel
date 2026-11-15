@@ -166,5 +166,23 @@
     "sourceType": "real",
     "status": "original",
     "notes": "New user-supplied production-floor photograph, unedited."
+  },
+  {
+    "file": "kids-lifestyle-summer.webp",
+    "sourceType": "generated",
+    "status": "generated",
+    "notes": "Photorealistic fictional AI models in original unbranded clothing. No real-person reference photographs or customer artwork used. Visibly labelled. Not actual manufactured products. Generated with built-in imagegen."
+  },
+  {
+    "file": "kids-lifestyle-play.webp",
+    "sourceType": "generated",
+    "status": "generated",
+    "notes": "Photorealistic fictional AI models in original unbranded clothing. No real-person reference photographs or customer artwork used. Visibly labelled. Not actual manufactured products. Generated with built-in imagegen."
+  },
+  {
+    "file": "kids-lifestyle-autumn.webp",
+    "sourceType": "generated",
+    "status": "generated",
+    "notes": "Photorealistic fictional AI models in original unbranded clothing. No real-person reference photographs or customer artwork used. Visibly labelled. Not actual manufactured products. Generated with built-in imagegen."
   }
 ]
